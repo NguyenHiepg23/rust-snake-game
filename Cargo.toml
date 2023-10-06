@@ -1,0 +1,10 @@
+[package]
+name = "rust-snake-game"
+version = "0.1.0"
+authors = ["hiep"]
+
+[dependencies]
+piston_window = "0.130.0"
+rand = "0.8.5"
+
+
